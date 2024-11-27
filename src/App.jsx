@@ -4,7 +4,7 @@ function App() {
   return (
     <div>
       <h1>COMING SOON!!!</h1>
-      <a href="https://intendslog.com">intendslog.com</a>
+      <a href="https://intendslogistics.com">intendslog.com</a>
     </div>
   );
 }
